@@ -16,5 +16,5 @@ Containerized a duplicate-IP checker with Docker and published the image to Dock
 Built a network config pipeline: an intent file plus a generator, containerized,
 with CI/CD that regenerates and validates the configs on every change.
 
-# ## Week 5
+## Week 5
 Called the GitHub REST API from Python to read my repo and create an issue.
