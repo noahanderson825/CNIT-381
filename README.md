@@ -18,3 +18,8 @@ with CI/CD that regenerates and validates the configs on every change.
 
 ## Week 5
 Called the GitHub REST API from Python to read my repo and create an issue.
+
+## Week 6: IP Plan Check Pipeline
+I combined weeks 1-4 into one lab. I focused on crearting a repository, files, docker images, raisng issues and fixing those said issues.  
+**Repo:** https://github.com/<noahanderson825>/ip-plan-check
+
