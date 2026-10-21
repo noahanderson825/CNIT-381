@@ -22,4 +22,6 @@ Called the GitHub REST API from Python to read my repo and create an issue.
 ## Week 6: IP Plan Check Pipeline
 I combined weeks 1-4 into one lab. I focused on crearting a repository, files, docker images, raisng issues and fixing those said issues.  
 **Repo:** https://github.com/<noahanderson825>/ip-plan-check
-
+## Week 8
+Configured OSPF manually, ran a provided playbook that automated it,
+and wrote my own playbook to back up the configs. I learned how to configure and deploy ansible playbooks. While doing this I learned that proper indentation is of upmost importatance.
