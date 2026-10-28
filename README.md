@@ -25,3 +25,8 @@ I combined weeks 1-4 into one lab. I focused on crearting a repository, files, d
 ## Week 8
 Configured OSPF manually, ran a provided playbook that automated it,
 and wrote my own playbook to back up the configs. I learned how to configure and deploy ansible playbooks. While doing this I learned that proper indentation is of upmost importatance.
+## Week 9
+Built a Network and Automate It End to End What I built: a CML topology (2 routers, a
+switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure
+loopbacks, EIGRP, a login banner, and to back up all device. I gained more knowledge about how Ansible is structure and have more confidence that I can build playbooks.
+
