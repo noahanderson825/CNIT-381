@@ -30,3 +30,6 @@ Built a Network and Automate It End to End What I built: a CML topology (2 route
 switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure
 loopbacks, EIGRP, a login banner, and to back up all device. I gained more knowledge about how Ansible is structure and have more confidence that I can build playbooks.
 
+## Week 10: Ansible on a CSR with the DEVASC VM
+What I did: Used VirtualBox to spin up two VMs, one is DEVASC and the other a CSR1000v.I configured ipv6 using Ansible and backup with Ansible as well 
+What I learned: This was what we have been doing on CML just in a different environment so there wasn't too much learned. I reaffirmed my dislike of VirtualBox though :). 
